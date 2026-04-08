@@ -1,0 +1,6 @@
+# BREWER-NASH Security System Requirements
+# Python standard libraries used: sqlite3, hashlib, datetime, time
+
+python>=3.8
+pandas>=2.0
+rich>=13.0
